@@ -32,8 +32,8 @@ Password Manager  offers a secure, sleek experience with a beautifully crafted i
     <th><p p align="center"> Second Task </p></th>
   </tr>
   <tr>
-    <td><div  align="center"><img src = "./assets/home.png" width="200px" /> </div></td>
-    <td><div  align="center"><img src = "./assets/sideview.png" width="200px" /> </div></td>
+    <td><div  align="center"><img src = "./assets/first.jpg" width="200px" /> </div></td>
+    <td><div  align="center"><img src = "./assets/second.jpg" width="200px" /> </div></td>
   </tr>
 
 </table>
@@ -59,7 +59,7 @@ This project taught me so much about **launch modes** and their practical use ca
 https://github.com/user-attachments/assets/70989c0c-bd0a-4090-a848-672e25d05fb7
 
 <a href="https://www.youtube.com/watch?v=wA-X0kbzldQ" target="_blank" >
-  <img src="https://www.logo.wine/a/logo/YouTube/YouTube-Icon-Full-Color-Logo.wine.svg" alt="Watch the video" style="width:30%;">
+  <img src="https://www.logo.wine/a/logo/YouTube/YouTube-Icon-Full-Color-Logo.wine.svg" alt="Watch the video" style="width:20%;">
 </a>
 
 **Watch Full Video** 
